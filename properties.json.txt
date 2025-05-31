@@ -1,0 +1,258 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apartment"
+    },
+    {
+      "id": 2,
+      "name": "Villa"
+    },
+    {
+      "id": 3,
+      "name": "Land"
+    }
+  ],
+  "properties": [
+    {
+      "id": 101,
+      "title": "Modern 2-Bedroom Apartment",
+      "type": "Apartment",
+      "price": 85000,
+      "location": "Ramallah, Palestine",
+      "area": "120 m²",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "image_url": "https://example.com/images/apartment1.jpg",
+      "description": "Beautiful apartment with city view, close to shopping malls."
+    },
+    {
+      "id": 102,
+      "title": "Luxury Family Villa",
+      "type": "Villa",
+      "price": 450000,
+      "location": "Amman, Jordan",
+      "area": "350 m²",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "image_url": "https://example.com/images/villa1.jpg",
+      "description": "Spacious villa with private pool and large garden."
+    },
+    {
+      "id": 103,
+      "title": "Residential Land Plot",
+      "type": "Land",
+      "price": 120000,
+      "location": "Aleppo, Syria",
+      "area": "500 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land1.jpg",
+      "description": "Prime land suitable for residential development."
+    },
+    {
+      "id": 104,
+      "title": "Penthouse Apartment with Roof Access",
+      "type": "Apartment",
+      "price": 140000,
+      "location": "Nablus, Palestine",
+      "area": "180 m²",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "image_url": "https://example.com/images/apartment2.jpg",
+      "description": "Luxury penthouse with rooftop terrace."
+    },
+    {
+      "id": 105,
+      "title": "Beachside Villa",
+      "type": "Villa",
+      "price": 600000,
+      "location": "Latakia, Syria",
+      "area": "400 m²",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "image_url": "https://example.com/images/villa2.jpg",
+      "description": "Elegant beachfront villa with panoramic sea views."
+    },
+    {
+      "id": 106,
+      "title": "Compact Studio Apartment",
+      "type": "Apartment",
+      "price": 45000,
+      "location": "Gaza, Palestine",
+      "area": "50 m²",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "image_url": "https://example.com/images/apartment3.jpg",
+      "description": "Affordable studio perfect for singles or students."
+    },
+    {
+      "id": 107,
+      "title": "Country Style Villa",
+      "type": "Villa",
+      "price": 320000,
+      "location": "Zarqa, Jordan",
+      "area": "270 m²",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "image_url": "https://example.com/images/villa3.jpg",
+      "description": "Villa with large outdoor area and rustic charm."
+    },
+    {
+      "id": 108,
+      "title": "Agricultural Land",
+      "type": "Land",
+      "price": 95000,
+      "location": "Homs, Syria",
+      "area": "700 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land2.jpg",
+      "description": "Land suitable for farming and agriculture."
+    },
+    {
+      "id": 109,
+      "title": "Family Apartment with Garden View",
+      "type": "Apartment",
+      "price": 99000,
+      "location": "Bethlehem, Palestine",
+      "area": "140 m²",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "image_url": "https://example.com/images/apartment4.jpg",
+      "description": "Spacious apartment with access to a shared garden."
+    },
+    {
+      "id": 110,
+      "title": "Mountain View Villa",
+      "type": "Villa",
+      "price": 510000,
+      "location": "Ajloun, Jordan",
+      "area": "380 m²",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "image_url": "https://example.com/images/villa4.jpg",
+      "description": "Villa with stunning mountain views."
+    },
+    {
+      "id": 111,
+      "title": "Urban Residential Land",
+      "type": "Land",
+      "price": 135000,
+      "location": "Damascus, Syria",
+      "area": "450 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land3.jpg",
+      "description": "Land located near city amenities and services."
+    },
+    {
+      "id": 112,
+      "title": "Luxury City Apartment",
+      "type": "Apartment",
+      "price": 160000,
+      "location": "Amman, Jordan",
+      "area": "200 m²",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "image_url": "https://example.com/images/apartment5.jpg",
+      "description": "Modern apartment in the city center."
+    },
+    {
+      "id": 113,
+      "title": "Seaside Land Plot",
+      "type": "Land",
+      "price": 250000,
+      "location": "Latakia, Syria",
+      "area": "600 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land4.jpg",
+      "description": "Land close to the beach, ideal for resorts."
+    },
+    {
+      "id": 114,
+      "title": "Duplex Family Home",
+      "type": "Villa",
+      "price": 370000,
+      "location": "Ramallah, Palestine",
+      "area": "300 m²",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "image_url": "https://example.com/images/villa5.jpg",
+      "description": "Modern duplex villa with private backyard."
+    },
+    {
+      "id": 115,
+      "title": "Compact Apartment Near University",
+      "type": "Apartment",
+      "price": 70000,
+      "location": "Jerusalem, Palestine",
+      "area": "90 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "image_url": "https://example.com/images/apartment6.jpg",
+      "description": "Convenient apartment perfect for students."
+    },
+    {
+      "id": 116,
+      "title": "Luxury Resort Villa",
+      "type": "Villa",
+      "price": 850000,
+      "location": "Aqaba, Jordan",
+      "area": "500 m²",
+      "bedrooms": 7,
+      "bathrooms": 6,
+      "image_url": "https://example.com/images/villa6.jpg",
+      "description": "High-end villa located in a luxury resort."
+    },
+    {
+      "id": 117,
+      "title": "Industrial Land Plot",
+      "type": "Land",
+      "price": 300000,
+      "location": "Industrial Zone, Gaza",
+      "area": "1000 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land5.jpg",
+      "description": "Land suited for industrial development."
+    },
+    {
+      "id": 118,
+      "title": "Seaview Apartment",
+      "type": "Apartment",
+      "price": 180000,
+      "location": "Acre, Palestine",
+      "area": "160 m²",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "image_url": "https://example.com/images/apartment7.jpg",
+      "description": "Apartment with a direct view of the Mediterranean."
+    },
+    {
+      "id": 119,
+      "title": "Private Ranch Villa",
+      "type": "Villa",
+      "price": 620000,
+      "location": "Irbid, Jordan",
+      "area": "420 m²",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "image_url": "https://example.com/images/villa7.jpg",
+      "description": "Large ranch-style villa with private farmland."
+    },
+    {
+      "id": 120,
+      "title": "Green Land for Eco Projects",
+      "type": "Land",
+      "price": 110000,
+      "location": "Deir ez-Zor, Syria",
+      "area": "550 m²",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "image_url": "https://example.com/images/land6.jpg",
+      "description": "Green land ideal for eco-friendly housing projects."
+    }
+  ]
+}
