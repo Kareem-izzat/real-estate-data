@@ -23,7 +23,7 @@
       "area": "120 m²",
       "bedrooms": 2,
       "bathrooms": 2,
-      "image_url": "https://example.com/images/apartment1.jpg",
+      "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/41a9a3167987111.6432f3f22ece2.jpg",
       "description": "Beautiful apartment with city view, close to shopping malls."
     },
     {
@@ -35,7 +35,7 @@
       "area": "350 m²",
       "bedrooms": 5,
       "bathrooms": 4,
-      "image_url": "https://example.com/images/villa1.jpg",
+      "image_url": "https://www.lamaisonestates.com/wp-content/uploads/2023/03/1-13.jpg",
       "description": "Spacious villa with private pool and large garden."
     },
     {
@@ -43,11 +43,11 @@
       "title": "Residential Land Plot",
       "type": "Land",
       "price": 120000,
-      "location": "Aleppo, Syria",
+      "location": "Giza, Egypt",
       "area": "500 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land1.jpg",
+      "image_url": "https://as2.ftcdn.net/v2/jpg/04/52/52/77/1000_F_452527783_whJHMyz49DWmM9vJWlmkgPzX8nuH04Ma.jpg",
       "description": "Prime land suitable for residential development."
     },
     {
@@ -59,7 +59,7 @@
       "area": "180 m²",
       "bedrooms": 3,
       "bathrooms": 3,
-      "image_url": "https://example.com/images/apartment2.jpg",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6430496393cdbe0716b0e672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Luxury penthouse with rooftop terrace."
     },
     {
@@ -67,11 +67,11 @@
       "title": "Beachside Villa",
       "type": "Villa",
       "price": 600000,
-      "location": "Latakia, Syria",
+      "location": "Alexandria, Egypt",
       "area": "400 m²",
       "bedrooms": 6,
       "bathrooms": 5,
-      "image_url": "https://example.com/images/villa2.jpg",
+      "image_url": "https://th.bing.com/th/id/R.5b7abdc14f4fd8dd54dc0c1ef024735a?rik=3PP0TVOox3hXsw&riu=http%3a%2f%2fcdn.home-designing.com%2fwp-content%2fuploads%2f2016%2f04%2fPenthouseSweepingViewsPatio.jpg&ehk=6pjVkC2Jiwi0DlI17ukDuX8mV9ylQSOPjYDadAsgtvY%3d&risl=&pid=ImgRaw&r=0",
       "description": "Elegant beachfront villa with panoramic sea views."
     },
     {
@@ -83,7 +83,7 @@
       "area": "50 m²",
       "bedrooms": 1,
       "bathrooms": 1,
-      "image_url": "https://example.com/images/apartment3.jpg",
+      "image_url": "https://th.bing.com/th/id/R.d44745ef9db4b6b836758c58dae844d0?rik=9yRlxO3NHmusFQ&pid=ImgRaw&r=0",
       "description": "Affordable studio perfect for singles or students."
     },
     {
@@ -95,7 +95,7 @@
       "area": "270 m²",
       "bedrooms": 4,
       "bathrooms": 3,
-      "image_url": "https://example.com/images/villa3.jpg",
+      "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf36cc74777537.5c39e3da13ea1.jpg",
       "description": "Villa with large outdoor area and rustic charm."
     },
     {
@@ -103,11 +103,11 @@
       "title": "Agricultural Land",
       "type": "Land",
       "price": 95000,
-      "location": "Homs, Syria",
+      "location": "Giza, Egypt",
       "area": "700 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land2.jpg",
+      "image_url": "https://th.bing.com/th/id/R.869e397e26e1a4c97728e84b0d2f67cc?rik=CUUDrt6NO5p34Q&pid=ImgRaw&r=0",
       "description": "Land suitable for farming and agriculture."
     },
     {
@@ -119,7 +119,7 @@
       "area": "140 m²",
       "bedrooms": 3,
       "bathrooms": 2,
-      "image_url": "https://example.com/images/apartment4.jpg",
+      "image_url": "https://www.eostravel.eu/mainsite/wp-content/uploads/2014/12/Villa_Maria_112.jpg",
       "description": "Spacious apartment with access to a shared garden."
     },
     {
@@ -131,7 +131,7 @@
       "area": "380 m²",
       "bedrooms": 5,
       "bathrooms": 4,
-      "image_url": "https://example.com/images/villa4.jpg",
+      "image_url": "https://th.bing.com/th/id/R.728c7704bfc5eb7b941cc5e4eb87a150?rik=zNsr1bLsGzgi%2bw&riu=http%3a%2f%2fcdn.home-designing.com%2fwp-content%2fuploads%2f2013%2f03%2fmodern-mountain-ocean-view-villa-with-pool.jpeg&ehk=Ij0tSkJAtemSrb9qs8P2%2fZi%2fLGUYot5wn%2fq7wlF9Ldo%3d&risl=&pid=ImgRaw&r=0",
       "description": "Villa with stunning mountain views."
     },
     {
@@ -139,11 +139,11 @@
       "title": "Urban Residential Land",
       "type": "Land",
       "price": 135000,
-      "location": "Damascus, Syria",
+      "location": "Cairo, Egypt",
       "area": "450 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land3.jpg",
+      "image_url": "https://landezine-award.com/wp-content/uploads/2020/03/IMG_5231.jpg",
       "description": "Land located near city amenities and services."
     },
     {
@@ -155,7 +155,7 @@
       "area": "200 m²",
       "bedrooms": 3,
       "bathrooms": 3,
-      "image_url": "https://example.com/images/apartment5.jpg",
+      "image_url": "https://th.bing.com/th/id/R.f559f33d82cd8a3b243691b11815bc6e?rik=a7kTs7w3Sw68VA&riu=http%3a%2f%2fwww.freshpalace.com%2fwp-content%2fuploads%2f2014%2f09%2fDark-Wood-Flooring-Sofas-Floor-to-Ceiling-Windows-City-River-Views-Hudson-River-Apartment-Manhattan.jpg%3fa6fb0f&ehk=n3M%2fx%2bYXy5RoXMtZJlGbgcxMG2MCurvvZsWfKeL50wc%3d&risl=&pid=ImgRaw&r=0",
       "description": "Modern apartment in the city center."
     },
     {
@@ -163,11 +163,11 @@
       "title": "Seaside Land Plot",
       "type": "Land",
       "price": 250000,
-      "location": "Latakia, Syria",
+      "location": "Alexandria, Egypt",
       "area": "600 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land4.jpg",
+      "image_url": "https://lesvos.estate/images/osproperty/properties/875/875_p597_06.jpg",
       "description": "Land close to the beach, ideal for resorts."
     },
     {
@@ -179,7 +179,7 @@
       "area": "300 m²",
       "bedrooms": 4,
       "bathrooms": 3,
-      "image_url": "https://example.com/images/villa5.jpg",
+      "image_url": "https://www.newwestern.com/cache/images/shutterstock_1188162424-scaled-1.jpg",
       "description": "Modern duplex villa with private backyard."
     },
     {
@@ -191,7 +191,7 @@
       "area": "90 m²",
       "bedrooms": 2,
       "bathrooms": 1,
-      "image_url": "https://example.com/images/apartment6.jpg",
+      "image_url": "https://i.pinimg.com/originals/8f/94/81/8f9481d2d7d32bbaa73b560896348f0c.jpg",
       "description": "Convenient apartment perfect for students."
     },
     {
@@ -203,7 +203,7 @@
       "area": "500 m²",
       "bedrooms": 7,
       "bathrooms": 6,
-      "image_url": "https://example.com/images/villa6.jpg",
+      "image_url": "https://cms-asset.ayana.com/One_Bedroom_Ocean_Front_Pool_Villa_1740x_978_3_c249c03432.jpg",
       "description": "High-end villa located in a luxury resort."
     },
     {
@@ -215,7 +215,7 @@
       "area": "1000 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land5.jpg",
+      "image_url": "https://www.industrialplot.in/blog/wp-content/uploads/2024/03/Ahmedabad-2-1.jpg",
       "description": "Land suited for industrial development."
     },
     {
@@ -227,7 +227,7 @@
       "area": "160 m²",
       "bedrooms": 3,
       "bathrooms": 2,
-      "image_url": "https://example.com/images/apartment7.jpg",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508843314.jpg?k=3fabd69f6a2bebd54853abd2de3825d39b066d66d9c9f8ec34ce73ebbc0c434d&o=&hp=1",
       "description": "Apartment with a direct view of the Mediterranean."
     },
     {
@@ -239,7 +239,7 @@
       "area": "420 m²",
       "bedrooms": 6,
       "bathrooms": 5,
-      "image_url": "https://example.com/images/villa7.jpg",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/543262326.jpg?k=3b454f3b3794df448945bea040a775ebda2a3617d1e41de3638255b744f27466&o=&hp=1",
       "description": "Large ranch-style villa with private farmland."
     },
     {
@@ -247,11 +247,11 @@
       "title": "Green Land for Eco Projects",
       "type": "Land",
       "price": 110000,
-      "location": "Deir ez-Zor, Syria",
+      "location": "Cairo, Egypt",
       "area": "550 m²",
       "bedrooms": 0,
       "bathrooms": 0,
-      "image_url": "https://example.com/images/land6.jpg",
+      "image_url": "https://www.watg.com/wp-content/uploads/2021/12/173107_N12_highres-1026x684.jpg",
       "description": "Green land ideal for eco-friendly housing projects."
     }
   ]
